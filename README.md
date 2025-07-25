@@ -1,16 +1,65 @@
-### Hi there 👋 
-### This is Fernando Roldán!
- 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
- 
-Welcome to my Github page! I am Glow and I am currently finishing my Computer Engineering Master degree at the Jiangnan University!  
- 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
- 
- 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+<h1 align="center">Hi there, I'm Glow 👋</h1>
+
+<p align="center">
+  🌟 Master's student at Jiangnan University <br>
+  🧠 Researching Multimodal Learning, NLP & Large Language Models <br>
+  🎯 Passionate about building intelligent systems that bridge vision and language
+</p>
+
+---
+
+### 👨‍🎓 About Me
+
+- 🎓 I'm currently pursuing my Master's degree at **Jiangnan University**
+- 🔬 My research focuses on **Multimodal Information Processing**, **Natural Language Processing**, and **Large-scale Models**
+- 📚 Considering pursuing a **Ph.D.** in the near future
+
+---
+
+### 🧠 Research Interests
+
+- 📷 Vision-Language Models
+- 🧾 Text-to-Image / Image Captioning
+- 🧠 Multimodal Embedding Alignment
+- 🧑‍🏫 Knowledge-Enhanced LLMs
+
+---
+
+### 🛠️ Tech Stack
+
+- 💻 Languages: Python, Rust
+- ⚙️ Frameworks: PyTorch, Transformers, Huggingface, LangChain
+- 📦 Tools: Git, Docker, VS Code, Jupyter
+
+---
+
+### 💡 Side Interests
+
+- 🏛️ History (especially Chinese and Japanese classical history)
+- 🎶 Music (J-pop, classical, ambient)
+- 📺 Anime (Fan of sci-fi & psychological genres like Steins;Gate, Psycho-Pass)
+
+---
+
+### 📫 Let's Connect
+
+- 🐙 GitHub: [github.com/你的用户名](https://github.com/zipper112)
+- 📬 Email: ninesxd@qq.com
+
+---
+
+<details>
+<summary>📈 GitHub Stats</summary>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight" />
+</p>
+
+</details>
+
+---
+
+> “Research is to see what everybody else has seen, and to think what nobody else has thought.”  
+> — Albert Szent-Györgyi
