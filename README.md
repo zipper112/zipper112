@@ -25,11 +25,14 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-- 💻 Languages: Python, Rust
-- ⚙️ Frameworks: PyTorch, Transformers, Huggingface, LangChain
-- 📦 Tools: Git, Docker, VS Code, Jupyter
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Huggingface-FFBF00?style=for-the-badge&logo=hugging-face&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -37,14 +40,26 @@
 
 - 🏛️ History (especially Chinese and Japanese classical history)
 - 🎶 Music (J-pop, classical, ambient)
-- 📺 Anime (Fan of sci-fi & psychological genres like Steins;Gate, Psycho-Pass)
+- 📺 Anime (Fan of sci-fi & psychological genres like *Steins;Gate*, *Psycho-Pass*)
+
+---
+
+### 🔭 Featured Projects
+
+- 🚀 [Multimodal Fusion for IR-VI Images](https://github.com/zipper112/some-fusion-project)  
+  A framework for fusing infrared and visible images using deep learning and saliency-aware modules.
+
+- 🧠 [Text-guided Image Enhancement](https://github.com/zipper112/some-enhancement-project)  
+  Use language prompts to guide image restoration with transformer-based architecture.
+
+> (*注：请替换以上项目链接为你的真实项目 repo*)
 
 ---
 
 ### 📫 Let's Connect
 
-- 🐙 GitHub: [github.com/你的用户名](https://github.com/zipper112)
-- 📬 Email: ninesxd@qq.com
+- 🐙 GitHub: [github.com/zipper112](https://github.com/zipper112)
+- 📬 Email: [ninesxd@qq.com](mailto:ninesxd@qq.com)
 
 ---
 
@@ -52,9 +67,13 @@
 <summary>📈 GitHub Stats</summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zipper112&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zipper112&layout=compact&theme=tokyonight" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=zipper112&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zipper112&theme=tokyonight" />
 </p>
 
 </details>
