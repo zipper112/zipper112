@@ -44,24 +44,6 @@
 
 ---
 
-### 🔭 Featured Projects
-
-- 🚀 [Multimodal Fusion for IR-VI Images](https://github.com/zipper112/some-fusion-project)  
-  A framework for fusing infrared and visible images using deep learning and saliency-aware modules.
-
-- 🧠 [Text-guided Image Enhancement](https://github.com/zipper112/some-enhancement-project)  
-  Use language prompts to guide image restoration with transformer-based architecture.
-
-> (*注：请替换以上项目链接为你的真实项目 repo*)
-
----
-
-### 📫 Let's Connect
-
-- 🐙 GitHub: [github.com/zipper112](https://github.com/zipper112)
-- 📬 Email: [ninesxd@qq.com](mailto:ninesxd@qq.com)
-
----
 
 <details>
 <summary>📈 GitHub Stats</summary>
