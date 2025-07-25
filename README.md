@@ -35,8 +35,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zipper112&theme=tokyonight)
-
 
 ### 💡 Side Interests
 
