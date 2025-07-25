@@ -35,32 +35,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-<details>
-<summary>📈 GitHub Stats</summary>
-
-<p align="center">
-
-  <!-- GitHub Summary Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zipper112&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zipper112&layout=compact&theme=tokyonight" />
-  <br>
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=zipper112&theme=tokyonight&hide_border=true" />
-  <br>
-
-  <!-- Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zipper112&theme=tokyonight" />
-  <br>
-
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=zipper112&theme=tokyonight&row=1&column=7" />
-</p>
-
-</details>
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zipper112&theme=tokyonight)
 
 
 ### 💡 Side Interests
