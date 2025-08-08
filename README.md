@@ -43,6 +43,8 @@
 - 📺 Anime (Fan of sci-fi & psychological genres like *Steins;Gate*, *Psycho-Pass*)
 
 ---
+### ✉️ Contact me
+- ninesxd@qq.com
 
 
 <details>
